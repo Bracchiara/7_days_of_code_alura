@@ -5,7 +5,7 @@ Este repositório contém minhas soluções para o desafio **#7DaysOfCode** da A
 ## 🗂️ Estrutura do Repositório
 
 - 📥 **Dia 1**: [Importação de dados](./dia_1_importar_dados/dia_1_importando_dados.ipynb)
-- 🧹 **Dia 2**: [Primeiras manipulações](./Dia_2-As_primeiras_manipulacoes.ipynb)
+- 🧹 **Dia 2**: [Primeiras manipulações](./dia_2_limpeza_de_dados/dia_2_limpeza_dados.ipynb)
 - 📅 **Dia 3**: [Exploração de datas](./Dia_3-Explorando_o_Datetime_dos_dados.ipynb)
 - 🔎 **Dia 4**: [Análise exploratória contínua](./Dia_4-Continuando_a_explorar_os_dados.ipynb)
 - 📊 **Dia 5**: [Análise com boxplot](./Dia_5-Analisando_emprestimos_com_boxplot.ipynb)
