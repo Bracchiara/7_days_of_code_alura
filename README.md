@@ -8,7 +8,7 @@ Este repositório contém minhas soluções para o desafio **#7DaysOfCode** da A
 - 🧹 **Dia 2**: [Primeiras manipulações](./dia_2_limpeza_de_dados/dia_2_limpeza_dados.ipynb)
 - 📅 **Dia 3**: [Exploração de datas](./dia_3_analise_e_date_time/dia_3_analise_exploratoria.ipynb)
 - 🔎 **Dia 4**: [Análise exploratória contínua](./dia_4_analise_e_variaveis_categ/dia_4_variaveis_categoricas.ipynb)
-- 📊 **Dia 5**: [Análise com boxplot](./analise_boxplot.ipynb)
+- 📊 **Dia 5**: [Análise com boxplot](./dia_5_analise_e_boxplot/dia_5_boxplot.ipynb)
 - 📈 **Dia 6**: [Novas análises com dados adicionais](./Dia_6-Novos_dados_novas_analises.ipynb)
 - 🌐 **Dia 7**: [Apresentação de resultados em HTML](./Dia_7-Apresentando_resultados_em_HTML.ipynb)
 
